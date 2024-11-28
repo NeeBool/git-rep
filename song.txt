@@ -15,3 +15,6 @@ With file
 Sing this song in main 
 Lalalala
 
+Sing song in feature
+Lalaalalla
+
