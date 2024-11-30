@@ -1,20 +1,4 @@
+MY NEW SONG 
 
-Sing with me
-lalala
-trulala
-
-
-
-
-Feature branch extension 
-2 more lines
-
-Main branch changes 
-With file
-
-Sing this song in main 
-Lalalala
-
-Sing song in feature
-Lalaalalla
-
+Tila tila lala 
+Tula tula lala
